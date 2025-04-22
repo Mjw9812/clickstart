@@ -25,7 +25,6 @@
 	</header>
 	
 	
-	<!-- Put some space around divs -->
 	<div style="display:flex; flex-direction:row; background:#D5F2E3;">
 		<div>
 			<img src="<img src="https://m.media-amazon.com/images/M/MV5BYzNkNjA1YTctMzU3ZS00ZWY3LWJjNjYtMTgyMmI0YWVkNjU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Yu-Gi-Oh! (TV Series 2000–2006) - IMDb"/>![image](https://github.com/user-attachments/assets/bdffa3e8-ac1b-4c3b-9dcf-e8ed93e97750)
